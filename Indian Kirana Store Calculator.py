@@ -1,8 +1,6 @@
 # Python program to add a string of number which keeps adding numbers untill user press q key on keyboard
 sum = 0
 
-ans = input(str("DO WANT TO PLAY THE GAME ?? \n"))
-
 while(True):
 
 
