@@ -1,23 +1,3 @@
-# Python program to add a string of number which keeps adding numbers untill user press q key on keyboard
-sum = 0
-
-while(True):
-
-
-    if ans == "yes" or ans == "Yes" or ans == "YES":
-
-
-        while (True):
-            userInput = (input("Enter the item price or press q to quit:  \n"))
-            if (userInput != 'q'):
-                sum = sum + int(userInput)
-                print(f"Order total so far: {sum}")
-            else:
-                print(f"Your bill total is {sum}")
-                print("Thanks for using calculator made by Gurpreet Singh Kochar")
-                break
-
-                
 # a more interactive calulator
 
 
