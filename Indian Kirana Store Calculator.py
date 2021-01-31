@@ -31,7 +31,7 @@ COME WHEN WANT TO USE IT.""")
     ans2=input(str('''DO WANT TO USE THE CALCULATOR AGAIN?
  Enter y for yes\n'''))
 
-    if ans2 == "y":
+    if ans2 == "yes":
         continue
     else:print("""Ok.
 VISIT OUR STORE AGAIN.""")
